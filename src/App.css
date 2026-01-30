@@ -1,0 +1,104 @@
+.nav-link {
+  color: white !important;
+}
+.active {
+  color: #fea116 !important;
+}
+nav{
+  background: url('../public/images/about1.jpg') no-repeat center center/cover;
+  background-size: 100% 100%;
+} 
+.nav {
+  background-color: #191928 !important;
+  opacity:0.9;
+  z-index: 1;
+}
+
+
+.btn_1 {
+  background-color: #fea116 !important;
+}
+.bg {
+  min-height: 90vh;
+  background: url("../public/images/about.jpg") no-repeat center center/cover;
+  background-size: 100% 100%;
+}
+.bg1 {
+  background-color: #191928 !important;
+  opacity: 0.9;
+  min-height: 90vh;
+  padding: 10% 5% 10% 5% !important;
+}
+
+.crd {
+  background-color: white !important;
+}
+.crd:hover {
+  background-color: #191928 !important;
+  color: white !important;
+}
+
+#crd2:hover{
+  background-color: #fea116 !important;
+  color:white !important;
+}
+#crd2:hover b{
+  color:white !important;
+}
+#crd2 b{
+  color: rgb(102, 101, 101) !important;
+}
+
+.cur_text {
+  font-size: 25px;
+  font-variant: small-caps;
+  color: #fea116 !important;
+  font-style: italic;
+}
+
+.img1 img:hover {
+  transform: scale(1);
+}
+
+.form-row{
+  margin-top:2%;
+}
+.col{
+  margin-left: 2%;
+}
+
+.idiv:hover{
+  background-color: #FEA116 !important;
+  font-weight: bold !important;
+}
+
+.abt{
+  background:url('../public/images/about.jpg') no-repeat center center/cover;
+  background-size:100% 100%;
+  /* height:50vh; */
+}
+
+.abt1{
+  background-color: #191928;
+  opacity:0.9;
+  height:100%;
+}
+
+.fixed_div{
+  position:fixed;
+  bottom:20px;
+  right:20px;
+  background-color: #FEA116;
+  border-radius: 10px;
+}
+
+.form-group{
+  margin:2% 0% 2% 0% !important;
+}
+
+.menu1{
+  border-bottom: 1px solid rgb(224, 223, 223);
+}
+.menu:hover{
+  border-bottom:2px solid #FEA116 !important;
+}

@@ -1,0 +1,10 @@
+.img-fluid:hover{
+   transform: scale(0.9);
+}
+
+.div{
+   border-left: 5px solid #fea116;
+}
+.div h1{
+   color:#fea116 !important;
+}
