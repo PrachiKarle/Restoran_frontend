@@ -55,8 +55,7 @@ const AdminLogin = () => {
       // Save JWT
       localStorage.setItem("adminToken", res.data.token);
 
-      // Redirect
-      navigate("/admin");
+      window.location.href="/admin";
     } catch (err) {
       setError("Login failed");
     }
